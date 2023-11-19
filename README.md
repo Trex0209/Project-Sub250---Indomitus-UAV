@@ -1,4 +1,4 @@
-# Project-Sub250---Indomitus
+# Project-Sub250---Indomitus-UAV
 
 ## Presenting India's sub 250 gram 5inch freestyle drone frame. 
 
